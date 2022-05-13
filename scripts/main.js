@@ -41,3 +41,7 @@ $('a.smooth-scroll')
     }
   }
 });
+// $(window).load(function () {
+// 	var $contents = $("#frame").contents();
+// 	$contents.scrollTop($contents.height());
+// });
