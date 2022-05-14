@@ -2270,7 +2270,7 @@ p {
 
 .blockquote {
   border-left: none;
-  border: 1px solid #888;
+  border: none;
   padding: 20px;
   font-size: 1.1em;
   line-height: 1.8; }
